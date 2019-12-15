@@ -1,3 +1,3 @@
 time = gets.chomp.to_f
 
-puts "%d:%d:%d".strip % [time / 3600, time / 60 % 60, time % 60]
+puts "%d ano(s)\n%d mes(es)\n%d dia(s)" % [time / 365, (time % 365) / 30, (time % 365 % 30)]
