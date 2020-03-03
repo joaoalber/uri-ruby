@@ -3,9 +3,7 @@ Leia os quatro valores correspondentes aos eixos x e y de dois pontos quaisquer 
 
 Distancia:
 
-$$
-\sqrt{(x2-x1)² + (y2 - y1)²}
-$$
+<a href="latex=$$&space;\sqrt{(x2-x1)²&space;&plus;&space;(y2&space;-&space;y1)²}&space;$$"><img src="https://latex.codecogs.com/gif.latex?$$&space;\sqrt{(x2-x1)²&space;&plus;&space;(y2&space;-&space;y1)²}&space;$$" title="$$ \sqrt{(x2-x1)² + (y2 - y1)²} $$" /></a>
 
 ## Entrada
 O arquivo de entrada contém duas linhas de dados. A primeira linha contém dois valores de ponto flutuante: x1 y1 e a segunda linha contém dois valores de ponto flutuante x2 y2.
