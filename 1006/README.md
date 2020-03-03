@@ -11,7 +11,7 @@ Imprima a variável MEDIA conforme exemplo abaixo, com 1 dígito após o ponto d
 |Exemplo de Entrada|Exemplo de Saída|
 |-|-|
 |`5.0`  <br>  `6.0`  <br>  `7.0`|`MEDIA = 6.3`|
-|
+|||
 |`5.0`  <br>  `10.0`  <br>  `10.0`|`MEDIA = 9.0`|
-|
+|||
 |`10.0`  <br>  `10.0`  <br>  `5.0`|`MEDIA = 7.5`|
