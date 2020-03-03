@@ -1,7 +1,7 @@
 # URI Online Judge | 1013 - O Maior
 Faça um programa que leia três valores e apresente o maior dos três valores lidos seguido da mensagem “eh o maior”. Utilize a fórmula:
 
-$$<br>MaiorAB = \frac{(a+b+abs(a-b))}{2}<br>$$
+<a href="latex=$$&space;MaiorAB&space;=&space;\frac{(a&plus;b&plus;abs(a-b))}{2}&space;$$"><img src="https://latex.codecogs.com/gif.latex?$$&space;MaiorAB&space;=&space;\frac{(a&plus;b&plus;abs(a-b))}{2}&space;$$" title="$$ MaiorAB = \frac{(a+b+abs(a-b))}{2} $$" /></a>
 
 Obs.: a fórmula apenas calcula o maior entre os dois primeiros (a e b). Um segundo passo, portanto é necessário para chegar no resultado esperado.
 
