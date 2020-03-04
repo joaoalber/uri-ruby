@@ -1,4 +1,4 @@
-valor = gets.chomp.split
+valor = gets.split
 
 a = valor[0].to_f
 b = valor[1].to_f

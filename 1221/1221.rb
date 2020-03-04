@@ -1,5 +1,5 @@
 require('prime')
 
-loop = Integer(gets.chomp).times do
-  puts Prime.prime?(Integer(gets.chomp)) ? 'Prime' : 'Not Prime'
+gets.to_i.times do
+  puts Prime.prime?(gets.to_i) ? 'Prime' : 'Not Prime'
 end

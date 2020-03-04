@@ -1,4 +1,4 @@
-h = gets.chomp.to_f
-vm = gets.chomp.to_f
+h = gets.to_f
+vm = gets.to_f
 
 puts '%.3f' % (h*vm/12)

@@ -1,3 +1,3 @@
-km = gets.chomp.to_i
+km = gets.to_i
     
 puts "#{km*2} minutos"
