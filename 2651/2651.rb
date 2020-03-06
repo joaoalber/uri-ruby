@@ -1,0 +1,1 @@
+puts gets.downcase.include?('zelda') ? 'Link Bolado' : 'Link Tranquilo'
